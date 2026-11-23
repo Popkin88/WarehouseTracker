@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\bin\Debug\net8.0\ConsoleAppKislyakov.exe
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\bin\Debug\net8.0\ConsoleAppKislyakov.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\bin\Debug\net8.0\ConsoleAppKislyakov.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\bin\Debug\net8.0\ConsoleAppKislyakov.dll
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\bin\Debug\net8.0\ConsoleAppKislyakov.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.dll
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\refint\ConsoleAppKislyakov.dll
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ConsoleAppKislyakov.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WarehouseTracker\ConsoleAppKislyakov\ConsoleAppKislyakov\obj\Debug\net8.0\ref\ConsoleAppKislyakov.dll
