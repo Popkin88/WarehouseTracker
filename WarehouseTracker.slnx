@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/ConsoleAppKislyakov/">
+    <Project Path="ConsoleAppKislyakov/ConsoleAppKislyakov/ConsoleAppKislyakov.csproj" />
+  </Folder>
+  <Project Path="WarehouseTracker.Data/WarehouseTracker.Data.csproj" />
+  <Project Path="WarehouseTracker.Logic/WarehouseTracker.Logic.csproj" />
+</Solution>

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9e2F9kHrBxE=",
+  "dgSpecHash": "xv08sb7LDf8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\WarehouseTracker\\ConsoleAppKislyakov\\ConsoleAppKislyakov\\ConsoleAppKislyakov.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
