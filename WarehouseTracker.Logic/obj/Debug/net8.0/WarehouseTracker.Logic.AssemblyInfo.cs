@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarehouseTracker.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ad495022af1ce1afb472544a14f68bb4a094c43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4235e0a9b2a6b8b79ca390264f0d992eb0236544")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarehouseTracker.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarehouseTracker.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
