@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppKislyakov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd57f33688efb58d7765356e032b2995fca42c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppKislyakov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppKislyakov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

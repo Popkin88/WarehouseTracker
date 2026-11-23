@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("WarehouseTracker - Складской учет товаров");
+Console.WriteLine("Кисляков Егор");
